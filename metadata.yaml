@@ -1,0 +1,28 @@
+_repo: The-Lady-of-Fort-St.-John_18631
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Catherwood, Mary Hartwell
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '2247'
+    url: http://www.gutenberg.org/2009/agents/2247
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
+description: A story of Acadia.
+gutenberg_issued: '2006-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'La Tour, Charles de Saint-Etienne de, 1593-1666 -- Fiction'
+- !lcsh 'Aulnay, Charles de Menou d'', 1604?-1650 -- Fiction'
+- !lcc 'PS'
+title: The Lady of Fort St. John
+url: http://www.gutenberg.org/ebooks/18631
